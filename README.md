@@ -10,3 +10,5 @@ just open the mahmud.cbp file in codeblocks.
 else,
 follow the instruction from iGraphics_Resources\iGraphics.pdf 
 then  open the mahmud.cbp file in codeblocks.
+
+if there is any problem, try again after disabling your anti-virus.
